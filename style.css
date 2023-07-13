@@ -1,0 +1,297 @@
+div{background-color: aliceblue;}
+.box1{background-color: black; background-image: url(./Screenshot_2.png);
+background-size: cover;
+background-position: center;
+width: 200px;
+display: inline-block;
+margin-right: auto;
+font-size: auto;
+padding: 100px;
+padding-top: 32px;
+padding-left: 100px;
+padding-right: 100px;
+font-size: small;
+text-align: center;
+color: gold;
+transition: 1s
+
+;
+text-decoration: none;
+
+}
+
+
+.but:hover {background-color: gold; font-size: 25px;
+}
+
+ 
+
+.but{border: 500px;
+border-radius: 10px;
+height: 50px;
+text-align: center;
+line-height: 50px;
+text-decoration: none;}
+
+
+.non{text-decoration: line-through;}
+/* box1 end */
+
+
+
+
+
+.box3{background-color: black; background-image: url(./Screenshot_3.png);
+  background-size: cover;
+  background-position: center;
+  width: 200px;
+  display: inline-block;
+  margin-right: auto;
+  font-size: auto;
+  padding: 100px;
+  padding-top: 100px;
+  padding-left: 100px;
+  padding-right: 100px;
+  font-size: small;
+  text-align: center;
+  color: azure;
+  transition: 1s
+  
+  ;
+  text-decoration: none;
+  }
+  
+  
+  .but1:hover {background-color: blue; font-size: 25px;
+  }
+  
+   
+  
+  .but1{border: 200px;
+  border-radius:100px;
+  height: 50px;
+  text-align: center;
+  line-height: 50px;
+  text-decoration: none;}
+  
+
+
+/* box 3 end */
+
+
+
+
+
+  
+      
+
+  .box4{background-color: black; background-image: url(./Screenshot_1.png);
+    background-size: cover;
+    background-position: center;
+    width: 200px;
+    display: inline-block;
+    margin-right: auto;
+    font-size: auto;
+    padding-bottom: 100px;
+    padding-top: 70px;
+    padding-left: 100px;
+    padding-right: 100px;
+    font-size: small;
+    text-align: center;
+    color: chartreuse;
+    transition: 1s;}
+    .but:hover {background-color: black;}
+    
+    .but{border: 100px;
+      border-radius:100px;
+      height: 50px;
+      text-align: center;
+      line-height: 50px;
+      text-decoration: none;}
+
+ 
+    
+    
+
+    /* box 4 end */
+
+
+    .box5{background-color: black; background-image: url(./Screenshot_4.png);
+      background-size: cover;
+      background-position: center;
+      width: 200px;
+      display: inline-block;
+      margin-right: 20px;
+      font-size: auto;
+      padding-bottom: 100px;
+      padding-top: auto;
+      padding-left: 100px;
+      padding-right: 100px;
+      font-size: small;
+      text-align: center;
+     color: cadetblue;
+      transition: 1s;}
+      .but2:hover {background-color: darkgray;}
+      
+      .but2{border: 100px;
+        border-radius:100px;
+        height: 50px;
+        text-align: center;
+        line-height: 50px;
+        text-decoration: none;}
+        /* box5 end */
+
+
+
+
+        .box6{background-color: brown; background-image: url(./643eb1986de8b331bb65252b_Blog-p-500.jpg);
+          background-size: cover;
+          background-position: center;
+          width: 200px;
+          display: inline-block;
+          margin-right: 20px;
+          margin-top: 20px;
+          font-size: auto;
+          padding-bottom: 100px;
+          padding-top: auto;
+          padding-left: 100px;
+          padding-right: 100px;
+          font-size: small;
+          text-align: center;
+         color: cadetblue;
+          transition: 1s;}
+          .but6:hover {background-color: darkgray;} 
+          
+          .but6{border: 10px solid;
+            border-radius:100px;
+            height: 70px;
+            text-align: center;
+            line-height: 70px;
+       text-decoration: none;}
+        a{
+        text-decoration: none;
+       }
+
+       
+       
+/* box6 end */
+.box7{background-color: brown; background-image: url(./6346398b914a2e3c6df496d9_Blog\ -\ 1@2x-p-500.png);
+  background-size: cover;
+  background-position: center;
+  width: 200px;
+  display: inline-block;
+  margin-right: 20px;
+  margin-top: 50px;
+  font-size: auto;
+  padding-bottom: 100px;
+  padding-top: auto;
+  padding-left: 100px;
+  padding-right: 100px;
+  font-size: small;
+  text-align: center;
+ color: cadetblue;
+  transition: 1s;}
+
+  .but5:hover {background-color: aqua;}
+  
+  .but5{border: 10px solid;
+    border-radius:100px;
+    height: 70px;
+    text-align: center;
+    line-height: 70px;}
+
+a{
+text-decoration: none;
+}
+.but5 {margin-top: 150px;
+display: block;
+}
+/* box 7 end */
+
+
+.box8{background-color: brown; background-image: url(./6189533fa7ea1c777dbeea1a_Header\ Image_launch1-p-800.jpeg);
+  background-size: cover;
+  background-position: center;
+  width: 200px;
+  display: inline-block;
+  margin-right: 20px;
+  margin-top: 50px;
+  font-size: auto;
+  padding-bottom: 100px;
+  padding-top: auto;
+  padding-left: 100px;
+  padding-right: 100px;
+  font-size: small;
+  text-align: center;
+color: chocolate;
+  transition: 1s;}
+
+  .but9:hover {background-color: #116565;}
+  
+  .but9{border: 4px solid;
+    border-radius:200px;
+    height: 100px;
+    text-align: center;
+    line-height: 120px;}
+
+a{
+text-decoration: none;
+}
+.but6 {margin-top: 100px;
+display: block;
+}
+
+/* box8end */
+
+
+
+.box9{background-color: brown; background-image: url(./61856cb637bbc4b2d04dafb7_Gig\ Card\ -\ Resized-p-500.png);
+  background-size: cover;
+  background-position: center;
+  width: 200px;
+  display: inline-block;
+
+  margin-right: 20px;
+  margin-top: 10px;
+  font-size: auto;
+  padding-bottom: 125px;
+  padding-top: 10px;
+  padding-left: 100px;
+  padding-right: 100px;
+  font-size: small;
+  text-align: center;
+color: blue;
+  transition: 1s;}
+
+  .but10:hover {background-color: deeppink;}
+  
+  .but10{border: 10px solid;
+    border-radius:100px;
+    height:250 px;
+    text-align: center;
+    line-height: 100 px;}
+
+a{
+text-decoration: none;
+}
+/* but9 end */
+
+
+
+.box10 { width: 500px;  background-color: blue; margin: 50px 200px 0 0px; display: inline block; }
+.clor:hover {background-color: coral;}
+/* box10 end*/
+
+
+.box11 { width: 500px;  background-color: aliceblue; color: cornsilk 50px 200px 0 0px; display: inline block; }
+
+.clor1:hover {background-color: darkorchid;}
+/* box11 end */
+
+
+.box12{width: 500px;  background-color: aquamarine; margin: 50px 200px 0 0px; display: inline block; }
+.clor3:hover {background-color: darkmagenta; }
+/* box12end */
+.box13{width: 600px;  background-color: aliceblue; margin: 50px 200px 0 0px; display: inline block; }
+.clor4:hover {background-color: darkblue; padding-bottom: 100px;}
+
